@@ -1,0 +1,32 @@
+/*adding some styling to the login page*/
+body{
+    background-image: url('pixelbaby1.jpg');
+    background-position: center;
+    background-size: cover;
+    
+}
+h2{
+    color:#ff3333;
+}
+
+.box{
+    max-width: 1000px;
+    float: none;
+    margin:200px auto;
+}
+
+
+.login-left{
+    padding:30px;
+}
+.login-right{
+    padding: 30px;
+}
+.form-control{
+    background: transparent !important;
+}
+.form-group label{
+    padding:10px 0 10px 0;
+    color: red;
+}
+
